@@ -1,16 +1,13 @@
-# wg-innovation-emerging-trends
-Collaborative space for the Innovation and Emerging Trends Working Group under the Developer Relations Foundation
+# DRF Innovation and Emerging Trends Work Group
 
-## DRF DevRel Structure and Organization Work Group
+Welcome to the DRF Innovation and Emerging Trends Work Group
 
-Welcome to the DRF DevRel Structure and Organization Work Group
-
-- Our mailing list to join is here: https://lists.dev-rel.org/g/wg-structure-organization
+- Our mailing list to join is here: https://lists.dev-rel.org/g/wg-innovation-emerging-trends
 - Our Mission is {insert WG mission here}
 - Our Strategic goals for {insert year} are {link to `https://github.com/DevRel-Foundation/the-drf-wg-gh-name/goals.md`}
 - We welcome contributions via {insert additional channels} and here on GitHub.
 
-All material contributed to the DRF DevRel Structure and Organization Work Group is under [CC-BY-4.0 Licensing](https://creativecommons.org/licenses/by/4.0/deed.en).
+All material contributed to the DRF Innovation and Emerging Trends Work Group is under [CC-BY-4.0 Licensing](https://creativecommons.org/licenses/by/4.0/deed.en).
 
 ## Meetings
 
